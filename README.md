@@ -2,4 +2,5 @@ This is a brief demonstration showcasing the automation of tasks in Microsoft Ex
 NOTE: This only works on Windows OS, untested on other OS.
 
 Screenshot:
+
 ![Fridays New Look](https://github.com/CharleeTalingdan/FRIDAY/assets/144240397/b9668cc1-c919-4d35-aacb-83eea904f57b)
